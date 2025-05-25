@@ -6,7 +6,7 @@ I'm an AI Application Engineer at SK Telecom. My passion lies in bridging Data E
 1. **Orchestration & Monitoring:**
    - Kubernetes, Prometheus, Grafana, Thanos
 2. **Programming Languages:**
-   - Python (FastAPI)
+   - C++, Python (FastAPI)
 3. **Machine Learning & AI:**
    - VLLM, AI Application Development
 4. **Database & Storage:**
@@ -17,7 +17,7 @@ I'm an AI Application Engineer at SK Telecom. My passion lies in bridging Data E
 - Built an HR chatbot service using an in-house LLM model.
 - Developed domain-specific AI applications for semiconductor manufacturing using open-source models.
 
-### 🏆 Solved.ac Tier
+### 🏆 BOJ Tier
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=physicallaw)](https://solved.ac/physicallaw)
 
